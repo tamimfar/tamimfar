@@ -42,7 +42,7 @@ Feel free to explore my repositories, and don't hesitate to connect if you'd lik
 </table>
 
 
-<h2 data-importer="text" align="left">Techs</h2>
+<h2 data-importer="text" align="left">💻 Tech Stack</h2>
 
 ###
 <h5 data-importer="text" align="left">##Frontend</h5>

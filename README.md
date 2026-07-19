@@ -1,12 +1,9 @@
 
 
 
-<h1 data-importer="text" align="left">Hey 👋 What's up?  I am Shaharia</h1>
+<h1 data-importer="text" align="left">Hey 👋 What's up?  I am Shaharia</h1> **`I Am Full Stack Developer`**
 
 ###
-
-**`I Am Full Stack Developer`**
-
 
 ###
 

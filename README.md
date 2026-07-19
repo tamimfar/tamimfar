@@ -1,17 +1,12 @@
-## Hi there 👋
 
-- 🔭 I’m currently working on Bbaria Online
-- 🌱 I’m currently learning Next.js
-- 🤔 I’m looking for help with AI
-- 💬 Ask me about Full Stak
-- 📫 How to reach me: t41296193@gmail.com
 
 
 <h1 data-importer="text" align="left">Hey 👋 What's up?  I am Shaharia</h1>
 
 ###
 
-<h3 data-importer="text" align="left">I Am Full Stack Developer</h3>
+**`I Am Full Stack Developer`**
+
 
 ###
 
@@ -19,14 +14,38 @@
 
 ###
 
-<p data-importer="text" align="left">Hi there! I'm Shaharia Ahmed, a Full Stack Developer specializing in building modern web applications with the MERN, Next.js, and PostgreSQL/Prisma stacks. I focus on delivering seamless, high-performance web solutions that are both visually appealing and highly functional.</p>
 
-###
+<table>
+<tr>
+<td>
+
+<p data-importer="text" align="left">I'm a passionate Full Stack Developer who enjoys building modern, scalable, and user-friendly web applications. My primary expertise lies in the MERN Stack, Next.js, and PostgreSQL/Prisma, and I love transforming ideas into high-quality digital products.
+
+I focus on creating fast, responsive, and secure applications with clean architecture and maintainable code. Whether it's developing intuitive frontend interfaces, designing robust backend APIs, or optimizing database performance, I strive to deliver solutions that are both visually appealing and highly functional.
+
+💻 Tech Stack
+Frontend: React, Next.js, TypeScript, JavaScript, Tailwind CSS
+Backend: Node.js, Express.js
+Database: PostgreSQL, MongoDB, Prisma ORM
+Tools & Platforms: Git, GitHub, Vercel, Docker, REST APIs
+🚀 What I'm Currently Working On
+Building scalable full-stack web applications
+Exploring modern backend architectures and system design
+Learning advanced cloud deployment and DevOps practices
+Contributing to open-source projects and continuously improving my skills
+
+I'm always excited to learn new technologies, solve real-world problems, and collaborate on meaningful projects. My goal is to create software that provides excellent user experiences while maintaining high performance, scalability, and code quality.
+
+Feel free to explore my repositories, and don't hesitate to connect if you'd like to collaborate or discuss exciting opportunities!</p>
+
+</td>
+</tr>
+</table>
+
 
 <h2 data-importer="text" align="left">Techs</h2>
 
 ###
-
 <h5 data-importer="text" align="left">##Frontend</h5>
 
 ###

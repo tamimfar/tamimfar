@@ -1,5 +1,5 @@
 <div data-importer="image" align="center">
-  <img data-importer="image" height="200" src="https://raw.githubusercontent.com/tamimfar/tamimfar/refs/heads/main/.github/workflows/Work%20From%20Home%20Freelance%20Blog%20Banner.png"  />
+  <img data-importer="image" height="200" src="https://raw.githubusercontent.com/tamimfar/tamimfar/refs/heads/main/.github/workflows/Work%20From%20Home%20Freelance%20Blog%20Banner.png" border-rudius="10"  />
 </div>
 
 
@@ -48,6 +48,7 @@ Feel free to explore my repositories, and don't hesitate to connect if you'd lik
 <h2 data-importer="text" align="left">💻 Tech Stack</h2>
 
 ###
+
 <h5 data-importer="text" align="left">##Frontend</h5>
 
 ###
@@ -68,6 +69,10 @@ Feel free to explore my repositories, and don't hesitate to connect if you'd lik
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=wordpress" height="40" alt="wordpress logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=redux" height="40" alt="redux logo"  />
 </div>
 
 ###
@@ -82,6 +87,8 @@ Feel free to explore my repositories, and don't hesitate to connect if you'd lik
   <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=prisma" height="40" alt="prisma logo"  />
 </div>
 
 ###
@@ -96,6 +103,8 @@ Feel free to explore my repositories, and don't hesitate to connect if you'd lik
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=redis" height="40" alt="redis logo"  />
 </div>
 
 ###
@@ -114,6 +123,8 @@ Feel free to explore my repositories, and don't hesitate to connect if you'd lik
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
 </div>
 
 ###

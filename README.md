@@ -1,4 +1,6 @@
-
+<div data-importer="image" align="center">
+  <img data-importer="image" height="200" src="https://raw.githubusercontent.com/tamimfar/tamimfar/refs/heads/main/.github/workflows/Work%20From%20Home%20Freelance%20Blog%20Banner.png"  />
+</div>
 
 
 <h1 data-importer="text" align="left">Hey 👋 What's up?  I am Shaharia</h1>
